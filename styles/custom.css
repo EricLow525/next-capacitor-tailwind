@@ -1,0 +1,11 @@
+.view-widget {
+  width: 24px;
+  height: 20px;
+}
+.card-top {
+  background-color: white;
+}
+
+.card-content {
+  background-color: #f9fafb
+}

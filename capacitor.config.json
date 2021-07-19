@@ -9,5 +9,6 @@
       "launchShowDuration": 0
     }
   },
-  "cordova": {}
+  "cordova": {},
+  "server": { "allowNavigation": [ "https://9b97152b90d4.ngrok.io" ] }
 }
